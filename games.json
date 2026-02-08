@@ -418,5 +418,10 @@
     "title": "Tanuki Sunset",
     "entry": "games/Tanuki/index.html",
     "cover": "games/Tanuki/cover.png"
+  },
+  {
+    "title": "Bad Parenting",
+    "entry": "games/BadParenting/index.html",
+    "cover": "games/BadParenting/cover.png"
   }
 ]
