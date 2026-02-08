@@ -50,6 +50,11 @@
     "cover": "games/FNAF4/cover.png"
   },
   {
+    "title": "Five Nights at Freddy's 4 Halloween",
+    "entry": "games/FNAF4HAL/index.html",
+    "cover": "games/FNAF4HAL/cover.png"
+  },
+  {
     "title": "Five Nights at Freddy's Pizzeria Simulator",
     "entry": "games/FNAFPS/index.html",
     "cover": "games/FNAFPS/cover.png"
