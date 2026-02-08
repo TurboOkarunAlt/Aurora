@@ -70,6 +70,21 @@
     "cover": "games/FNAFWORLD/cover.png"
   },
   {
+    "title": "FNAF World Refreshed",
+    "entry": "games/FNAFWORLDREF/index.html",
+    "cover": "games/FNAFWORLDREF/cover.png"
+  },
+  {
+    "title": "Five Nights at Epsteins",
+    "entry": "games/FNAFEPSTEIN/index.html",
+    "cover": "games/FNAFEPSTEIN/cover.png"
+  },
+  {
+    "title": "Five Nights at Winstons",
+    "entry": "games/FNAFWINSTON/index.html",
+    "cover": "games/FNAFWINSTON/cover.png"
+  },
+  {
     "title": "Five Nights at Candy's",
     "entry": "games/FNAC/index.html",
     "cover": "games/FNAC/cover.png"
@@ -399,4 +414,4 @@
     "entry": "games/Tanuki/index.html",
     "cover": "games/Tanuki/cover.png"
   }
-  ]
+]
