@@ -423,5 +423,10 @@
     "title": "Bad Parenting",
     "entry": "games/BadParenting/index.html",
     "cover": "games/BadParenting/cover.png"
+  },
+  {
+    "title": "Terraria",
+    "entry": "games/Terraria/index.html",
+    "cover": "games/Terraria/cover.png"
   }
 ]
