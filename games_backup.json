@@ -393,5 +393,10 @@
     "title": "Sonic Battle",
     "entry": "games/SonicBattle/index.html",
     "cover": "games/SonicBattle/cover.png"
+  },
+  {
+    "title": "Tanuki Sunset",
+    "entry": "games/Tanuki/index.html",
+    "cover": "games/Tanuki/cover.png"
   }
-]
+  ]
