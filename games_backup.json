@@ -50,6 +50,11 @@
     "cover": "games/FNAF4/cover.png"
   },
   {
+    "title": "Five Nights at Freddy's 4 Halloween",
+    "entry": "games/FNAF4HAL/index.html",
+    "cover": "games/FNAF4HAL/cover.png"
+  },
+  {
     "title": "Five Nights at Freddy's Pizzeria Simulator",
     "entry": "games/FNAFPS/index.html",
     "cover": "games/FNAFPS/cover.png"
@@ -413,5 +418,20 @@
     "title": "Tanuki Sunset",
     "entry": "games/Tanuki/index.html",
     "cover": "games/Tanuki/cover.png"
+  },
+  {
+    "title": "Bad Parenting",
+    "entry": "games/BadParenting/index.html",
+    "cover": "games/BadParenting/cover.png"
+  },
+  {
+    "title": "Terraria",
+    "entry": "games/Terraria/index.html",
+    "cover": "games/Terraria/cover.png"
+  },
+  {
+    "title": "Iron Lung",
+    "entry": "games/IronLung/index.html",
+    "cover": "games/IronLung/cover.png"
   }
 ]
