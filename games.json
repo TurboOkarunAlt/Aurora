@@ -428,5 +428,10 @@
     "title": "Terraria",
     "entry": "games/Terraria/index.html",
     "cover": "games/Terraria/cover.png"
+  },
+  {
+    "title": "Iron Lung",
+    "entry": "games/IronLung/index.html",
+    "cover": "games/IronLung/cover.png"
   }
 ]
