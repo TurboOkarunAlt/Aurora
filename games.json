@@ -433,5 +433,10 @@
     "title": "Iron Lung",
     "entry": "games/IronLung/index.html",
     "cover": "games/IronLung/cover.png"
+  },
+  {
+    "title": "Burger and Frights",
+    "entry": "games/BAR/index.html",
+    "cover": "games/BAR/cover.png"
   }
 ]
