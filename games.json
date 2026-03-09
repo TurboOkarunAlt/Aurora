@@ -438,5 +438,10 @@
     "title": "Burger and Frights",
     "entry": "games/BAF/index.html",
     "cover": "games/BAF/cover.png"
+  },
+  {
+    "title": "Untitled Goose Game",
+    "entry": "games/UGG/index.html",
+    "cover": "games/UGG/cover.png"
   }
 ]
