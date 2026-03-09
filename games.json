@@ -443,5 +443,10 @@
     "title": "Untitled Goose Game",
     "entry": "games/UGG/index.html",
     "cover": "games/UGG/cover.png"
+  },
+  {
+    "title": "Cluster Rush",
+    "entry": "games/ClusterRush/index.html",
+    "cover": "games/ClusterRush/cover.png"
   }
 ]
