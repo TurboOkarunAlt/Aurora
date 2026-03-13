@@ -448,5 +448,20 @@
     "title": "Cluster Rush",
     "entry": "games/ClusterRush/index.html",
     "cover": "games/ClusterRush/cover.png"
+  },
+  {
+    "title": "Shift at Midnight",
+    "entry": "games/Shift/index.html",
+    "cover": "games/Shift/cover.png"
+  },
+  {
+    "title": "Brotato",
+    "entry": "games/Brotato/index.html",
+    "cover": "games/Brotato/cover.png"
+  },
+  {
+    "title": "Crazy Cattle 3D",
+    "entry": "games/CC3D/index.html",
+    "cover": "games/CC3D/cover.png"
   }
 ]
