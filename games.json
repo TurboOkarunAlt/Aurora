@@ -463,5 +463,10 @@
     "title": "Crazy Cattle 3D",
     "entry": "games/CC3D/index.html",
     "cover": "games/CC3D/cover.png"
+  },
+  {
+    "title": "PokéPath TD",
+    "entry": "games/PPTD/index.html",
+    "cover": "games/PPTD/cover.png"
   }
 ]
