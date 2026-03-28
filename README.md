@@ -20,3 +20,6 @@ There is ALOT of bugs right now which is why this  isnt contuined anymore!!
 A new launcher is coming soon!
 The games will be updated but without its covers.
 The app will remain
+
+
+Any files named NinthCover or something similar is for the Ninth App
